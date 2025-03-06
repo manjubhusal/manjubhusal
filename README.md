@@ -12,6 +12,5 @@
 - **Software Development**: API Development, Git, DevOps, Agile  
 
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjubhusal&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjubhusal&layout=compact&theme=radical)
 
