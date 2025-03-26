@@ -1,4 +1,4 @@
-# Hi, I'm Manju Adhikari! 👋  
+# Hi, I'm Manju Adhikari Bhusal! 👋  
 
 🌍 Passionate about **Data Science, Machine Learning, and Software Development**  
 💻 Skilled in **Python, Java, SQL, GIS, Cloud Technologies (AWS, Azure)**  
